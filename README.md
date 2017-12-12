@@ -1,18 +1,25 @@
-# My cool website
+# Personal Site Starter
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+This is a place for you to start building your first project -- your personal website!
 
-ヽ(๏∀๏ )ﾉ
+Your full activity instructions are in HQ, but here's a little cheat-sheet of the files in this project:
+
+## ← about.html
+
+This should be the second page you work on.
+
+## ← blog.html
+
+This should be the last page you work on.
 
 ## ← index.html
 
-Where you'll write the content of your website. 
-
-## ← styles.css
-
-CSS files add styling rules to your content
+This is your homepage. It should be the first page that you work on.
 
 ## ← script.js
 
-If you're feeling fancy you can add interactivity to your site with Javascript
+Starting tomorrow, you'll get fancy with the ability to add interactivity to your site with JavaScript. For now, there's no need to edit this file!
 
+## ← styles.css
+
+The file for your styles!
