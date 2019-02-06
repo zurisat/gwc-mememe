@@ -4,14 +4,6 @@ This is a place for you to start building your first project -- your personal we
 
 Your full activity instructions are in HQ, but here's a little cheat-sheet of the files in this project:
 
-## ← about.html
-
-This should be the second page you work on.
-
-## ← blog.html
-
-This should be the last page you work on.
-
 ## ← index.html
 
 This is your homepage. It should be the first page that you work on.
