@@ -10,7 +10,7 @@ This is your homepage. It should be the first page that you work on.
 
 ## ← script.js
 
-Starting tomorrow, you'll get fancy with the ability to add interactivity to your site with JavaScript. For now, there's no need to edit this file!
+Later this week, you'll get fancy with the ability to add interactivity to your site with JavaScript. For now, there's no need to edit this file!
 
 ## ← styles.css
 
