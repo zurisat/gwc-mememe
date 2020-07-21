@@ -34,8 +34,9 @@ h1 {
   color: white;
 }
 
-img.resize {
-  height: 
+img {
+    max-width:25%;
+    height:auto;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
