@@ -7,6 +7,10 @@ body {
 
 h1 {
   color: navy;
+  text-align: center
+}
+#epic {
+  length; 50px
 }
 
 .topnav {
@@ -29,9 +33,6 @@ h1 {
   background-color: #F05D23;
   color: white;
 }
-selector{
-  property: value;
-  }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
@@ -54,4 +55,4 @@ selector{
 
 
 
-/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ .
