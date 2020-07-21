@@ -8,6 +8,10 @@ h1 {
   text-align: left;
 }
 
+.rotateme {
+  transform: rotate(180deg);
+}
+
 body {
   margin: 20px;
 }
@@ -34,6 +38,6 @@ body {
 }
 
 img {
-  max-width: 25%;
+  max-width: 23%;
   height: auto;
 }
