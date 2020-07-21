@@ -4,11 +4,12 @@ body {
   color:indigo
 }
 
-
 h1 {
   color: navy;
-  text-align: center
+  text-align: left
 }
+
+
 #epic {
   length; 50px
 }
@@ -38,6 +39,7 @@ img {
     max-width:25%;
     height:auto;
 }
+
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
