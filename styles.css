@@ -4,11 +4,15 @@ body {
   color:indigo
 }
 
+
 h1 {
   color: navy;
   text-align: left
 }
 
+body{
+  margin: 20px
+}
 
 #epic {
   length; 50px
