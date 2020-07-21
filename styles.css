@@ -9,6 +9,29 @@ h1 {
   color: navy;
 }
 
+.topnav {
+  background-color: #2C497F;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: indigo;
+}
+.topnav a.active {
+  background-color: #F05D23;
+  color: white;
+}
+selector{
+  property: value;
+  }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
