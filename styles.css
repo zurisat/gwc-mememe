@@ -7,6 +7,9 @@ h1 {
   color: navy;
   text-align: left;
 }
+.radstead{
+  color: red;
+}
 
 .rotateme {
   transform: rotate(180deg);
