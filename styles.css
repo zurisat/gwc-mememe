@@ -46,6 +46,17 @@ img {
 }
 
 .pinkblood{
-  color: magenta;
-  
+  color: #C12957;
+  font-size: 20px;
+  background-color: pink;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+a {
+  color: #C12957;
+}
+
+.greenblood{
+  color: green;
 }
